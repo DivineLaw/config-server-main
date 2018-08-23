@@ -17,5 +17,5 @@ management:
 ---
 
 spring:
-  profiles: cloud
-    message: Hello Roster
+    profiles:
+      message: Hello RosterA
