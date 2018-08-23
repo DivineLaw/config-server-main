@@ -16,6 +16,4 @@ management:
 
 ---
 
-spring:
-    profiles:
-      message: Hello RosterA
+message: Hello RosterA
