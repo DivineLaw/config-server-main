@@ -18,5 +18,4 @@ management:
 
 spring:
   profiles: cloud
-
-message: Hello Roster
+    message: Hello Roster
